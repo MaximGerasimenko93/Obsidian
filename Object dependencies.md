@@ -5,7 +5,7 @@ Alias:
 Header:
 
 Что такое [[Object dependencies]]?::[[Object dependencies]] – это зависимости объекта. Это другие объекты с которыми работает текущий объект и использует их функциональность.
-<!--SR:!2023-02-05,1,130-->
+<!--SR:!2023-03-14,3,130-->
 
 
 
@@ -18,7 +18,7 @@ Body:
 Ответ:
 	- Все зависимости должны иметь вид полей
 	- ![[Object dependencies.png]]
-<!--SR:!2023-02-04,1,130-->
+<!--SR:!2023-03-11,1,130-->
 
 
 
@@ -28,6 +28,6 @@ Body:
 
 
 Sources:
-- [ ] [Вопросы для собеседования на Java Developer](https://github.com/enhorse/java-interview/blob/master/README.md#%D0%9E%D0%9E%D0%9F)
+- [ ] [Spring вопросы-ответы](https://docs.google.com/document/d/1eFbKDhPfud_Kj07jHhj-OmZuEfHYWe4HaLUW4pRkZ9U/edit#heading=h.26f0p2oxn1f9)
 - [ ] []()
 - [ ] []()

@@ -24,7 +24,7 @@ Body:
 		• Member inner class (Простой внутренний класс)
 		• Local inner class (Локальный класс)
 		• Anonymous inner class (Анонимный класс)
-<!--SR:!2023-02-05,1,130-->
+<!--SR:!2023-03-11,3,290-->
 
 
 

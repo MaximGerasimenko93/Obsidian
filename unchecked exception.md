@@ -9,6 +9,8 @@ Header:
 
 Body:
 
+
+
 Какие unchecked exceptions встречаются чаще всего?
 !---
 Ответ:
@@ -21,6 +23,7 @@ Body:
 	- `NoSuchElementException`
 	- `NullPointerException`
 	- `UnsupportedOperationException`.
+<!--SR:!2023-03-11,3,250-->
 
 
 

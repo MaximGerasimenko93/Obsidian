@@ -5,7 +5,7 @@ Alias:
 Header:
 
 Назовите [[Виды сборщиков мусора в VM HotSpot]]?::[[Виды сборщиков мусора в VM HotSpot]] – это Serial, Parallel, Concurrent Mark Sweep и Garbage-First(G1).
-<!--SR:!2023-02-05,1,130-->
+<!--SR:!2023-03-14,3,350-->
 
 
 
